@@ -21,7 +21,7 @@
 // Frameworks
 #import <WebKit/WebKit.h>
 #import <SafariServices/SafariServices.h>
-#import <UIkit/UIkit.h>
+#import <UIKit/UIKit.h>
 
 // Runtime magic
 #import <objc/message.h>
